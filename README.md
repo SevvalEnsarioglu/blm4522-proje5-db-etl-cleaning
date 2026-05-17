@@ -1,7 +1,7 @@
 # Proje 5: Veri Temizleme ve ETL Süreçleri Tasarımı
 
 > 22290742 - ŞEVVAL ENSARİOĞLU    
-> **Video Linki:** *[Video linki buraya eklenecek]*
+> **Video Linki:** *https://youtu.be/2wQ3mm1-tjg*
 
 ---
 
